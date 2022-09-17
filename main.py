@@ -8,7 +8,7 @@ warnings.filterwarnings("ignore",category=matplotlib.cbook.mplDeprecation)
 
 # Download source 'Indicators.csv' file from here:
 # https://www.kaggle.com/datasets/kaggle/world-development-indicators?select=Indicators.csv
-DATA_SOURCE_FILE = "/Users/waqarahmed/Downloads/Indicators.csv"
+DATA_SOURCE_FILE = "/YOUR_LOCAL_PATH/Indicators.csv"
 
 def main():
 
