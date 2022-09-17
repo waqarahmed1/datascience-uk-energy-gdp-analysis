@@ -3,8 +3,8 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-# Download source indocators file from here:
-# https://www.kaggle.com/datasets/theworldbank/world-development-indicators
+# Download source 'Indicators.csv' file from here:
+# https://www.kaggle.com/datasets/kaggle/world-development-indicators?select=Indicators.csv
 DATA_SOURCE_FILE = "*/Indicators.csv"
 
 def main():
